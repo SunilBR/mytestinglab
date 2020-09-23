@@ -4,4 +4,4 @@ It worked after providing restore command.
 
 Trying to merge branch to master.
 
-Checking the merge again
+Checking the merge again on featurelab4 to master
