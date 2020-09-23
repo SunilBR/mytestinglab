@@ -1,7 +1,0 @@
-I am modifying the file to check the status.
-
-It worked after providing restore command.
-
-Trying to merge branch to master.
-
-Checking the merge again on featurelab4 to master
